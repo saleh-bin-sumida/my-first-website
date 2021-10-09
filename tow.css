@@ -157,7 +157,7 @@ header .links ul li a:hover {padding-left: 20px;}
 
 .landing {
     position: relative;
-    background-image: url("../mountain.jpg");
+    background-image: url("mountain.jpg");
     background-size: cover;
     height: calc(100vh + 64px);
 }
